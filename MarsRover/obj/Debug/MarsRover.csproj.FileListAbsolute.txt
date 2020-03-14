@@ -5,3 +5,17 @@ C:\Users\ERAY\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.csprojAssembl
 C:\Users\ERAY\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
 C:\Users\ERAY\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.exe
 C:\Users\ERAY\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.pdb
+C:\Users\ERAY\source\repos\MarsRover\MarsRover\bin\Debug\Autofac.dll
+C:\Users\ERAY\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.Business.dll
+C:\Users\ERAY\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.Core.dll
+C:\Users\ERAY\source\repos\MarsRover\MarsRover\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ERAY\source\repos\MarsRover\MarsRover\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ERAY\source\repos\MarsRover\MarsRover\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ERAY\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.Business.pdb
+C:\Users\ERAY\source\repos\MarsRover\MarsRover\bin\Debug\MarsRover.Core.pdb
+C:\Users\ERAY\source\repos\MarsRover\MarsRover\bin\Debug\Autofac.pdb
+C:\Users\ERAY\source\repos\MarsRover\MarsRover\bin\Debug\Autofac.xml
+C:\Users\ERAY\source\repos\MarsRover\MarsRover\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ERAY\source\repos\MarsRover\MarsRover\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ERAY\source\repos\MarsRover\MarsRover\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ERAY\source\repos\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\ERAY\source\repos\MarsRover\MarsRover.Business\bin\Debug\MarsRover.Business.dll
+C:\Users\ERAY\source\repos\MarsRover\MarsRover.Business\bin\Debug\MarsRover.Business.pdb
+C:\Users\ERAY\source\repos\MarsRover\MarsRover.Business\bin\Debug\MarsRover.Core.dll
+C:\Users\ERAY\source\repos\MarsRover\MarsRover.Business\bin\Debug\MarsRover.Core.pdb
+C:\Users\ERAY\source\repos\MarsRover\MarsRover.Business\obj\Debug\MarsRover.Business.csprojAssemblyReference.cache
+C:\Users\ERAY\source\repos\MarsRover\MarsRover.Business\obj\Debug\MarsRover.Business.csproj.CoreCompileInputs.cache
+C:\Users\ERAY\source\repos\MarsRover\MarsRover.Business\obj\Debug\MarsRover.Business.csproj.CopyComplete
+C:\Users\ERAY\source\repos\MarsRover\MarsRover.Business\obj\Debug\MarsRover.Business.dll
+C:\Users\ERAY\source\repos\MarsRover\MarsRover.Business\obj\Debug\MarsRover.Business.pdb
