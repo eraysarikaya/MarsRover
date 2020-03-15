@@ -12,5 +12,8 @@ namespace MarsRover.Business.IServices
         List<RoversModel> FillRoversData(UpperRightCoordinatesModel upperRightCoordinateModel);
         void RoversMovementActions(List<RoversModel> roverList);
         UpperRightCoordinatesModel EnterUpperRightCoordinates();
+        bool UpperRightCoordinatesControl(string upperRightCoordinates);
+        bool RoverDataControl(string roverData, UpperRightCoordinatesModel upperRightCoordinateModel);
+        bool RoverMovementCommandsDataControl(string[] roverData, string movementCommandsData, UpperRightCoordinatesModel upperRightCoordinateModel);
     }
 }

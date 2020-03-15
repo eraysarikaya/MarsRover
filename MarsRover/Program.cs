@@ -9,6 +9,7 @@ namespace MarsRover
 {
     public class Program
     {
+        #region Register Services
         private static IRoverService _roverService;
         static void RegisterServices()
         {
@@ -21,6 +22,7 @@ namespace MarsRover
                 _roverService = newScope.Resolve<IRoverService>();
             }
         }
+        #endregion
         static void Main(string[] args)
         {
             RegisterServices();

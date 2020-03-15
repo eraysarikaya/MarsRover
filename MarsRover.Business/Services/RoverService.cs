@@ -102,7 +102,7 @@ namespace MarsRover.Business.Services
         }
         #endregion
         #region DataControl
-        private bool UpperRightCoordinatesControl(string upperRightCoordinates)
+        public bool UpperRightCoordinatesControl(string upperRightCoordinates)
         {
             try
             {
@@ -123,7 +123,7 @@ namespace MarsRover.Business.Services
             }
         }
 
-        private bool RoverDataControl(string roverData, UpperRightCoordinatesModel upperRightCoordinateModel)
+        public bool RoverDataControl(string roverData, UpperRightCoordinatesModel upperRightCoordinateModel)
         {
             try
             {
@@ -153,7 +153,7 @@ namespace MarsRover.Business.Services
             }
         }
 
-        private bool RoverMovementCommandsDataControl(string[] roverData, string movementCommandsData, UpperRightCoordinatesModel upperRightCoordinateModel)
+        public bool RoverMovementCommandsDataControl(string[] roverData, string movementCommandsData, UpperRightCoordinatesModel upperRightCoordinateModel)
         {
             try
             {
