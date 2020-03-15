@@ -16,8 +16,10 @@ namespace MarsRover.Test
     public class MarsRoverUnitTest
     {
         #region Register Services
-        private static IRoverService _roverService;
-        static void RegisterServices()
+        private IRoverService _roverService;
+
+        [TestInitialize]
+        public void RegisterServices()
         {
             var builder = new ContainerBuilder();
             builder.RegisterType<RoverService>().As<IRoverService>().InstancePerLifetimeScope();
@@ -29,11 +31,10 @@ namespace MarsRover.Test
             }
         }
         #endregion
+
         [TestMethod]
         public void RoversMovementActionTest()
         {
-            RegisterServices();
-
             List<RoversModel> roverList = new List<RoversModel>();
 
             #region Create Rover Test Model
